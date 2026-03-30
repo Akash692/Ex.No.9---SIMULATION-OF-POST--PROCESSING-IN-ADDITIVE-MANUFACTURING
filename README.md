@@ -1,6 +1,6 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+# Ex.No.6.2  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 24-03-26
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -46,9 +46,21 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+CAD File Preparation
+<img width="1083" height="619" alt="image" src="https://github.com/user-attachments/assets/19236326-6907-404b-9033-4637c16adb3a" />
+Conversion to STL
+<img width="1090" height="605" alt="image" src="https://github.com/user-attachments/assets/84c88cfe-3e13-41ed-a6c7-586a786445dc" />
+Orientation
+<img width="1083" height="534" alt="image" src="https://github.com/user-attachments/assets/71ed95a0-6858-447e-b463-b7fe598bcd7b" />
+Support structure
+<img width="1064" height="598" alt="image" src="https://github.com/user-attachments/assets/62c6d9f5-658d-4028-b155-14cb3e88f13d" />
+Slicing
+<img width="1065" height="552" alt="image" src="https://github.com/user-attachments/assets/5e09e563-5fca-490f-84fe-896645f16f9e" />
+Path planning
+<img width="1069" height="546" alt="image" src="https://github.com/user-attachments/assets/b48bd3d9-fa3b-498e-babe-395ae0e9f79b" />
 
-### Name:
-### Register Number:
+### Name:Ajay S.T.DHANAAAKHAASH 
+### Register Number:212224240032
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
